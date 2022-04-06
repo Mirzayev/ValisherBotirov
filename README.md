@@ -50,12 +50,7 @@
 ### 👨‍💻 Programming Languages
 
 <p>
-    <!-- <a href="#">
-        <img alt="C#"
-             src="https://img.shields.io/badge/csharp-%2300599C.svg?style=for-the-badge&logo=csharp&logoColor=white"></a> -->
-    <!-- <a href="#">
-        <img alt="C"
-             src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></a> -->
+   
     <a href="#">
         <img alt="Python"
              src="https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=python&logoColor=white"/></a>
@@ -73,27 +68,7 @@
     <a href="#">
         <img alt="ASP.NET"
              src="https://img.shields.io/badge/ASP.NET-%23013243.svg?style=for-the-badge&logo=ASP.NET&logoColor=white"></a>
-    <!-- <a href="#">
-        <img alt=".NET6"
-             src="https://img.shields.io/badge/.NET6-%23150458.svg?style=for-the-badge&logo=.NET6&logoColor=white"></a> -->
-    <!-- <a href="#">
-        <img alt="ASP.NET Core"
-             src="https://img.shields.io/badge/ASP.NET CORE-%23EE4C2C.svg?style=for-the-badge&logo=ASP.NET Core&logoColor=white"/></a>
-    <a href="#">
-        <img alt="Entity%20Fraemwork%20Core"
-             src="https://img.shields.io/badge/Entity%20Fraemwork-092E20?style=for-the-badge&logo=Entity%20Fraemwork&logoColor=green"></a>
-    <a href="#">
-        <img alt="Ado.Net"
-             src="https://img.shields.io/badge/Entity%20Fraemwork-092E20?style=for-the-badge&logo=Ado.Net&logoColor=green"></a> -->
-    <!-- <a href="#">
-        <img alt="Dapper"
-             src="https://img.shields.io/badge/Entity%20Fraemwork-092E20?style=for-the-badge&logo=Dapper&logoColor=green"></a> -->
-    <!-- <a href="#">
-        <img alt="ASP.NET Core MVC"
-             src="https://img.shields.io/badge/ASP.NET%20Core%20MVC-43B02A?style=for-the-badge&logo=MVC&logoColor=white"/></a> -->
-    <!-- <a href="#">
-        <img alt="WPF"
-             src="https://img.shields.io/badge/WPF-43B02A?style=for-the-badge&logo=WPF&logoColor=blue"/></a> -->
+ 
     <a href="#">
         <img alt="Windows Form"
              src="https://img.shields.io/badge/Windows%20Form-43B02A?style=for-the-badge&logo=MVC&logoColor=green"/></a>
@@ -119,16 +94,7 @@
     <a href="#">
         <img alt="Heroku"
              src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/></a>
-    <!-- <a href="#">
-        <img alt="Azure"
-             src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white"/>
-    </a> -->
-    <!-- <a href="#">
-        <img alt="Repl.it"
-             src="https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=Repl.it&logoColor=white"/></a> -->
-    <!-- <a href="#">
-        <img alt="Digital Ocean"
-             src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white"></a> -->
+    
     <a href="#">
         <img alt="AWS"
              src="https://img.shields.io/badge/AWS-0080FF?style=for-the-badge&logo=AWS&logoColor=white"></a>
@@ -144,9 +110,7 @@
 ### 💻 Software and tools
 
 <p>
-    <!-- <a href="#">
-        <img alt="Docker"
-             src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a> -->
+   
     <a href="#">
         <img alt="GIT"
              src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
@@ -175,28 +139,9 @@
                      src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
     <a href="#"><img alt="Linux"
                      src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
-    <!-- <a href="#"><img alt="Ubuntu"
-                     src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
-    <a href="#"><img alt="Debian"
-                     src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"></a>
-    <a href="#"><img alt="Kali"
-                     src="https://img.shields.io/badge/Kali%20Linux-5BAEF2?style=for-the-badge&logo=kali&logoColor=white"></a>
-    <a href="#"><img alt="Mac OS"
-                     src="https://img.shields.io/badge/Mac%20OS-5BAFF2?style=for-the-badge&logo=kali&logoColor=white"></a> -->
+  
     
 </p>
 
 ## 🔥 Streak stats
 
-<!-- GitHub Readme Streak Stats - https://github.com/clevercoderr/github-readme-streak-stats -->
-<!-- <p align="center">
-  <a href="#">
-    <img title="🔥 Streak stats" alt="MrTukhtaboyev's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MrTukhtaboyev&theme=monokai-metallian&hide_border=true"/>
-  </a>
-</p>
-
-## 💻 Last month's activity
-
-<!-- https://github.com/clevercoderr/github-readme-activity-graph -->
-
-<a href=""><img alt="MrTukhtaboyev's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MrTukhtaboyev&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> -->
