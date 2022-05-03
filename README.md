@@ -97,9 +97,7 @@
 
 ### 💻 Software and tools
 
-<p>
-   
-    <a href="#">
+<p><a href="#">
         <img alt="GIT"
              src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
     <a href="#">
@@ -122,13 +120,9 @@
 
 ### 💻 My favorite operating systems
 
-<p>
-    <a href="#"><img alt="Windows"
+<p> <a href="#"><img alt="Windows"
                      src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
     <a href="#"><img alt="Linux"
-                     src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
-  
-    
-</p>
+                     src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a></p>
 
 ## 🔥 Streak stats
