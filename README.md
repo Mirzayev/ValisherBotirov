@@ -58,11 +58,9 @@
     <a href="#">
         <img alt="ASP.NET"
              src="https://img.shields.io/badge/ASP.NET-%23013243.svg?style=for-the-badge&logo=ASP.NET&logoColor=white"></a>
- 
     <a href="#">
         <img alt="Windows Form"
-             src="https://img.shields.io/badge/Windows%20Form-43B02A?style=for-the-badge&logo=MVC&logoColor=green"/></a>
-</p>
+             src="https://img.shields.io/badge/Windows%20Form-43B02A?style=for-the-badge&logo=MVC&logoColor=green"/></a></p>
 
 ### 🗄️ Databases
 
