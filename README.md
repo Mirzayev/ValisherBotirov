@@ -125,6 +125,11 @@
                      src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a></p>
 
 ## 🔥 Streak stats
+<p align="center">
+  <a href="#">
+    <img title="🔥 Streak stats" alt="MrTukhtaboyev's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ValisherBotirov&theme=monokai-metallian&hide_border=true"/>
+  </a>
+</p>
 
 ## 💻 Last month's activity
 <!-- https://github.com/clevercoderr/github-readme-activity-graph -->
