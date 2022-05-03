@@ -42,9 +42,7 @@
 
 ### 👨‍💻 Programming Languages
 
-<p>
-   
-    <a href="#">
+<p><a href="#">
         <img alt="Python"
              src="https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=python&logoColor=white"/></a>
     <a href="#">
@@ -52,8 +50,7 @@
              src="https://img.shields.io/badge/Cpp-ED8B00?style=for-the-badge&logo=Cpp&logoColor=white"/></a>
     <a href="#">
         <img alt="Java Script"
-             src="https://img.shields.io/badge/javascript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white"/></a>
-</p>
+             src="https://img.shields.io/badge/javascript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white"/></a></p>
 
 ### 🧰 Frameworks and libraries
 
