@@ -127,7 +127,7 @@
 ## 🔥 Streak stats
 <p align="center">
   <a href="#">
-    <img title="🔥 Streak stats" alt="MrTukhtaboyev's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ValisherBotirov&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Streak stats" alt="ValisherBotirov's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ValisherBotirov&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
 
