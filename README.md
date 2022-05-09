@@ -52,7 +52,7 @@
 ![Sass](https://img.shields.io/badge/-Sass-082032?style=for-the-badge&logo=Sass&logoColor=CC6699)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-082032?style=for-the-badge&logo=Bootstrap&logoColor=#7952B3)
 ![Git](https://img.shields.io/badge/-Git-082032?style=for-the-badge&logo=Git&logoColor=#F05032)
-<a href="#"><img alt="Python"src="https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=python&logoColor=white"/></a>
+
 
 
 <p><a href="#">
