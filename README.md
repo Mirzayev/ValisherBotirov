@@ -9,7 +9,7 @@
                 src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;More%20than%20a%20year%20of%20experience;Always%20learning%20new%20things;%20A%20Self-confidence%20and%20self-motivated&center=true&width=380&height=45"></a>
 </p>
 
-### 👨🏻‍💻 I am 20 y.o FullStack Developer
+### 👨🏻‍💻 I am 21 y.o FullStack Developer
 
 ## 🙋‍♂️ Connect with me
 
